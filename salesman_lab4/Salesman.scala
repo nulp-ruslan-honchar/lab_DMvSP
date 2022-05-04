@@ -1,6 +1,6 @@
-package com.konstantin.salesman_lab4
+package com.ruslan.salesman_lab4
 
-import com.konstantin.{Edge, Graph}
+import com.ruslan.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 import scala.util.Random

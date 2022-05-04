@@ -1,7 +1,7 @@
-package com.konstantin.prim_lab1
+package com.ruslan.prim_lab1
 
 
-import com.konstantin.{Edge, Graph}
+import com.ruslan.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 

@@ -1,7 +1,7 @@
-package com.konstantin.isomorphism_lab5
+package com.ruslan.isomorphism_lab5
 
 
-import com.konstantin.{Edge, Graph}
+import com.ruslan.{Edge, Graph}
 
 class Isomorphism(isomorphicGraph: Graph) {
   var general: Boolean = false

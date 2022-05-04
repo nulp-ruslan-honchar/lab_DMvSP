@@ -1,4 +1,4 @@
-package com.konstantin.streams_lab3
+package com.ruslan.streams_lab3
 
 import scala.collection.mutable.ListBuffer
 import scala.io.Source
@@ -9,7 +9,7 @@ object StreamWork {
   val Sr: Array[KeyPoint] = new Array[KeyPoint](N)
   var maxTer: Int = 0
 
-  private val fullPath = "C:\\Users\\konstantin_saprikin\\Desktop\\graphs\\src\\main\\scala\\"
+  private val fullPath = "C:\\Users\\ruslan_honchar\\Desktop\\graphs\\src\\main\\scala\\"
 
   def fillThread(): Seq[Stream] = {
 

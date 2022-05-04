@@ -1,6 +1,6 @@
-package com.konstantin.postman_lab2
+package com.ruslan.postman_lab2
 
-import com.konstantin.{Edge, Graph}
+import com.ruslan.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 
